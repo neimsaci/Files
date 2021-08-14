@@ -1,4 +1,5 @@
 # Script to display hexadecimal clock for my dwm
+# I put it in ~/.scripts directory and add> sh ~/.scripts/xsetloop.sh & <to my .xinitrc 
 #!/bin/sh
 
 while true; do
