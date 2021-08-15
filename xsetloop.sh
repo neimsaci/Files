@@ -3,8 +3,8 @@
 #!/bin/sh
 
 while true; do
-  xsetroot -name " $(printf "%02X:%02X" `date '+%H %M'`) "
+  xsetroot -name " $(printf "%02X:%02X" `date '+%k %M'`) "
   # Comment out line 6 and uncomment line 8 if seconds is desired
-  #xsetroot -name " $(printf "%02X:%02X:%02X" `date '+%H %M %S'`) "
+  #xsetroot -name " $(printf "%02X:%02X:%02X" `date '+%k %M %S'`) "
   sleep 1
 done
