@@ -3,6 +3,7 @@
 *font:          terminus-12
 *boldFont:      terminus-12
 *saveLines:     9000
+*loginShell:    true
 
 *.foreground:   #d0d0d0
 *.background:   #000000
