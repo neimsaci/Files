@@ -1,10 +1,4 @@
-# $FreeBSD$
-#
-# .cshrc - csh resource script, read at beginning of execution by each shell
-#
-# see also csh(1), environ(7).
-# more examples available at /usr/share/examples/csh/
-#
+
 alias cls clear
 alias zf  zfs list -t all
 alias zp  zpool list
