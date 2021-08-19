@@ -1,42 +1,54 @@
-*faceName:      terminus-12
+*faceName:      terminus
 *faceSize:      12
-*font:          terminus-12
-*boldFont:      terminus-12
+*font:          terminus
+*boldFont:      terminus
 *saveLines:     9000
 *loginShell:    true
 
-*.foreground:   #d0d0d0
-*.background:   #000000
-*.cursorcolor:  #d0d0d0
+!Theme One
+*background: rgb:00/00/00
+*foreground: rgb:a8/a8/a8
+*color0:     rgb:00/00/00
+*color1:     rgb:a8/00/00
+*color2:     rgb:00/a8/00
+*color3:     rgb:a8/54/00
+*color4:     rgb:00/00/a8
+*color5:     rgb:a8/00/a8
+*color6:     rgb:00/a8/a8
+*color7:     rgb:a8/a8/a8
+*color8:     rgb:54/50/54
+*color9:     rgb:f8/54/50
+*color10:    rgb:50/fc/50
+*color11:    rgb:f8/fc/50
+*color12:    rgb:50/54/f8
+*color13:    rgb:f8/54/f8
+*color14:    rgb:50/fc/f8
+*color15:    rgb:f8/fc/f8
 
+!*.foreground:   #d0d0d0
+!*.background:   #000000
+!*.cursorcolor:  #d0d0d0
 ! black
-*.color0:       #000000
-*.color8:       #808080
-
+!*.color0:       #000000
+!*.color8:       #808080
 ! red
-*.color1:       #ff0000
-*.color9:       #ff0000
-
+!*.color1:       #ff0000
+!*.color9:       #ff0000
 ! green
-*.color2:       #33ff00
-*.color10:      #33ff00
-
+!*.color2:       #33ff00
+!*.color10:      #33ff00
 ! yellow
-*.color3:       #ff0099
-*.color11:      #ff0099
-
+!*.color3:       #ff0099
+!*.color11:      #ff0099
 ! blue
-*.color4:       #0066ff
-*.color12:      #0066ff
-
+!*.color4:       #0066ff
+!*.color12:      #0066ff
 ! magenta
-*.color5:       #cc00ff
-*.color13:      #cc00ff
-
+!*.color5:       #cc00ff
+!*.color13:      #cc00ff
 ! cyan
-*.color6:       #00ffff
+!*.color6:       #00ffff
 *.color14:      #00ffff
-
 ! white
-*.color7:       #d0d0d0
-*.color15:      #ffffff
+!*.color7:       #d0d0d0
+!*.color15:      #ffffff
