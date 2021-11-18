@@ -29,4 +29,4 @@ set		 shellcmdflag=-command
 "  This options sets CursorColumn color same as CursorLine
 hi		 link CursorColumn CursorLine
 
-"  You can use this config on any nix system just replace _vimrc to .vimrc and remove or comment options with bell
+"  You can use this config on any nix system just replace _vimrc to .vimrc, remove shell, shellcmdflag and bell options.
