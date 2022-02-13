@@ -6,10 +6,10 @@ set       ruler
 set       number
 
 "  This is first option that disable bell in shell on Windows
-set		    vb t_vb=
+set       vb t_vb=
 set       wildmenu
 set       hlsearch
-set	      tabstop=3
+set       tabstop=3
 set       incsearch
 set       autoindent
 set       cursorline
