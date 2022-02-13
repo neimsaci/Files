@@ -1,7 +1,7 @@
 "  Enabling FASM syntax highliting for files that end with .asm and .inc
-autocmd       BufNew,BufRead *.asm set ft=fasm
-autocmd       BufNew,BufRead *.inc set ft=fasm
-syntax       on
+autocmd   BufNew,BufRead *.asm set ft=fasm
+autocmd   BufNew,BufRead *.inc set ft=fasm
+syntax    on
 set       ruler
 set       number
 
