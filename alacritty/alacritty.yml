@@ -1,0 +1,19 @@
+# Alacritty config is 881 lines
+# I picked only settings I use
+env:
+  TERM: alcritty
+  
+window:
+  title: Alacritty    # On Windows 10 this option not work
+  dynamic_title: true # On Windows 10 this option not work
+    columns: 118
+    lines: 28
+    
+scrolling:
+  history: 10000
+  multiplier: 3
+  
+shell:
+  program: powershell.exe -NoLogo
+  
+working_directory: C:\\Users\\your_user_name
