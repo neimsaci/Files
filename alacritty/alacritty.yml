@@ -6,6 +6,7 @@ env:
 window:
   title: Alacritty    # On Windows 10 this option not work
   dynamic_title: true # On Windows 10 this option not work
+  dimensions:
     columns: 118
     lines: 28
     
