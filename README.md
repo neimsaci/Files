@@ -1,2 +1,2 @@
 # Files
-Repository for various files.
+Repository for various files and configs.
