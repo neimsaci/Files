@@ -19,7 +19,7 @@ shell:
   
 working_directory: C:\\Users\\your_user_name
 
-# Pandora color scheme
+# Pandora color scheme:
 colors:
   bright:
      black: '#3f5648'
