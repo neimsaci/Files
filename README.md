@@ -1,2 +1,2 @@
-# my-files
-Repository for my dotfiles, configs and scripts.
+# files
+Repository for various files, dotfiles, configs and scripts.
