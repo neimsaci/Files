@@ -1,2 +1,2 @@
-# powerfiles
+# PowerFiles
 Various PowerShell files.
