@@ -1,3 +1,4 @@
+# Found this fantastic config code at: https://www.commandline.ninja/customize-pscmdprompt/
 function prompt {
 
     #Assign Windows Title Text
