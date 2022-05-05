@@ -39,7 +39,7 @@ function prompt {
     return "> "
 } #end prompt function
 
-# Create alias that will allow to launch  helix (hx) with vim and vi commands.
+# Create alias that will allow to launch  helix-editor with vim and vi commands.
 New-Alias -Name vi -Value     'C:\Users\neim\.cargo\bin\hx.exe'
 New-Alias -Name vim -Value     'C:\Users\neim\.cargo\bin\hx.exe'
 
