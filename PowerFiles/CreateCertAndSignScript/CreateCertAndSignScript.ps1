@@ -1,4 +1,4 @@
-# My script is based on details of article that can be found here: https://adamtheautomator.com/how-to-sign-powershell-script/
+# My script is based on some details taken from article that can be found here: https://adamtheautomator.com/how-to-sign-powershell-script/
 
 $Name = Read-Host -Prompt "Enter name for the cert"
 $AltName = Read-Host -Prompt "Enter alternative name for the cert"
