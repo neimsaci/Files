@@ -1,25 +1,25 @@
-# author: NNB <nnbnh@protonmail.com>
+# Author: NNB <nnbnh@protonmail.com>
 
-"ui.menu" = { fg = "light-gray", bg = "gray" }
+"ui.menu" = { fg = "light-gray", bg = "black" }
 "ui.menu.selected" = { modifiers = ["reversed"] }
-"ui.linenr" = { fg = "light-green", bg = "black" }  # Changed line number color to light-green
+"ui.linenr" = { fg = "light-gray", bg = "black" }
 "ui.popup" = { bg = "black" }
 "ui.window" = { bg = "black" }
-"ui.linenr.selected" = { fg = "white", bg = "black", modifiers = ["reversed"] }  # Changed selected line number color to white
-"ui.selection" = { fg = "white", modifiers = ["reversed"] }
-"comment" = { fg = "light-gray", modifiers = ["none"] }
+"ui.linenr.selected" = { fg = "light-gray", bg = "black", modifiers = ["bold", "reversed"] }
+"ui.selection" = { fg = "light-gray", modifiers = ["reversed"] }
+"comment" = { fg = "gray" }
 "ui.statusline" = { fg = "white", bg = "black" }
 "ui.statusline.inactive" = { fg = "gray", bg = "black" }
 "ui.help" = { fg = "white", bg = "black" }
-"ui.cursor" = { fg = "white", modifiers = ["reversed"] }  # Changed cursor color to white (if this option is left unchenged, cursor will not be visible in this theme)
-"ui.cursor.primary" = { fg = "white", modifiers = ["reversed"] }
-"ui.virtual" = "light-white"  # Changed to white that all selection including spaces is in the same color
+"ui.cursor" = { fg = "light-gray", modifiers = ["reversed"] }
+"ui.cursor.primary" = { fg = "light-gray", modifiers = ["reversed"] }
+"ui.virtual" = "light-gray"
 "variable" = "light-red"
 "constant.numeric" = "yellow"
 "constant" = "yellow"
 "attributes" = "yellow"
 "type" = "light-yellow"
-"ui.cursor.match" = { fg = "white", modifiers = ["underlined"] } # This option is changed to white to match main cursor color
+"ui.cursor.match" = { fg = "light-yellow", modifiers = ["underlined"] }
 "string"  = "light-green"
 "variable.other.member" = "light-green"
 "constant.character.escape" = "light-cyan"
